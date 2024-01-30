@@ -49,6 +49,7 @@
 
 Below I have attached the snap short of every page.
 
-
+### Home Page
+![Screenshot (22)](https://github.com/shaulcifal/Ecommerce-Website-using-MERN-stack/assets/67320529/c9bbeda4-e9be-470b-af42-a5b698c36a7d)
 
 
